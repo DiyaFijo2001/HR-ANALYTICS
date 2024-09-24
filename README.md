@@ -10,6 +10,7 @@ On Service: 92% of employees are actively working.
 Retrenchment: 117 employees (8%) retrenched.
 Job Levels: Employee count across five job levels.
 Distance from Workplace: Categorization of employees based on proximity to the office.
+
 3.Functionality
 Interactive Navigation: Separate views for an overall summary, specific actions, and detailed insights.
 Data Source: Loaded from internal HR datasets.
